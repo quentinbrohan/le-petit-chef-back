@@ -1,4 +1,4 @@
-# Serveur Le Petit Chef
+# Le Petit Chef Server
 
 - install `yarn`
 - start `yarn start` : http://localhost:3001
